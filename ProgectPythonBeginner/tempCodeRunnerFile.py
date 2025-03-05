@@ -1,0 +1,1 @@
+ob=hospital(root)
